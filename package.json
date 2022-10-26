@@ -1,0 +1,25 @@
+{
+  "name": "zacht-school-jsfooter",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zach-Turner3791/zacht-school-jsFooter.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Zach Turner <zachary.turner9012@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zach-Turner3791/zacht-school-jsFooter/issues"
+  },
+  "homepage": "https://github.com/Zach-Turner3791/zacht-school-jsFooter#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
